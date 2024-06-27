@@ -10,5 +10,5 @@ redirect_from:
 
 About ME
 ======
-Tao Huang holds a Ph.D. in Civil Engineering from Purdue University. His research interests focus on Hydrology, Hydraulics, Earth Systems Data Science, and Uncertainty Quantification.
+Tao Huang holds a Ph.D. in Civil Engineering from Purdue University. His research interests focus on Hydrology, Hydraulics, Earth Systems Data Science, and Uncertainty Quantification in Numerical Modeling.
 
