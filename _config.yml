@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Tao Huang / Site Title"
+title                    : "Tao Huang"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Tao Huang"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://huan1441.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://huan1441.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "taohuangcat.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Tao Huang"
+  pronouns         : "he/him"  
+  bio              : "Postdoctoral Research Associate @PNNL, Earth System Data Science, Hydrology, and Hydraulics"
+  location         : "Richland, WA, USA"
+  employer         : "PNNL"
   uri              : # URL
   email            : "jshuangtao08@gmail.com" 
 
