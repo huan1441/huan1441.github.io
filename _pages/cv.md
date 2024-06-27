@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Civil Engineering at Purdue University, 2023
+* Ph.D. in Civil Engineering at Purdue University, 2023
 * M.S. in Hydraulic Engineering at Tsinghua University, 2014
 * B.S. in Hydraulic and Hydropower Engineering at Tsinghua University, 2012
 
@@ -20,12 +20,6 @@ Work experience
 * 2014-2019: Civil Engineer
   * PowerChina Kunming Engineering Corporation Limited
 
-  
-Skills
-======
-#* Skill 1
-#* Skill 2
-#  * Sub-skill 2.1
 
 
 Publications
