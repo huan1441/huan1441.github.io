@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Tao Huang"
+title                    : "Tao Huang's Lab"
 title_separator          : "-"
 name                     : &name "Tao Huang"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "taohuangcat.png"
   name             : "Tao Huang"
   pronouns         : "he/him"  
-  bio              : "Postdoctoral Research Associate @PNNL, Earth System Data Science, Hydrology, and Hydraulics"
+  bio              : "Postdoctoral Research Associate @PNNL, Earth Systems Data Science, Hydrology, and Hydraulics"
   location         : "Richland, WA, USA"
   employer         : "PNNL"
   uri              : # URL
