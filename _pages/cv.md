@@ -39,4 +39,10 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Awards
+======
+* Best Technical Paper (Feb. 2024)
+  * Environmental & Water Resources Institute award to the 2024 Best Technical Paper for "Uncertainty Analysis and Quantification in Flood Insurance Rate Maps Using Bayesian Model Averaging and Hierarchical BMA" published in Journal of Hydrologic Engineering
+* Lyles Teaching Fellowship (Jan. 2023)
+  * Lyles School of Civil Engineering fellowship presented to an outstanding graduate student who is working with a Faculty Mentor to teach an undergraduate course in civil engineering at Purdue University
