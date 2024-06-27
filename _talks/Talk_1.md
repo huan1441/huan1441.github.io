@@ -3,9 +3,8 @@ title: "Evaluating Uncertainty in Modeling of FEMA Flood Insurance Rate Maps (FI
 collection: talks
 type: "Talk"
 #permalink: /talks/Talk_1
-venue: "AGU"
+venue: "AGU Fall Meeting"
 date: 2022-12-16
 location: "New Orleans, Louisiana"
-paperurl: 'https://ui.adsabs.harvard.edu/abs/2021AGUFM.H41A..08H/abstract'
 ---
 
