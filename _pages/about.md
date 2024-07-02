@@ -21,7 +21,7 @@ Education
 ======
 * Ph.D. in Civil Engineering, Purdue University, West Lafayette, IN, 2023
 * M.S. in Hydraulic Engineering, Tsinghua University, Beijing, 2014
-* B.S. in Hydraulic and Hydropower Engineering, Tsinghua University, Beijing 2012
+* B.S. in Hydraulic and Hydropower Engineering, Tsinghua University, Beijing, 2012
 <br />
 <br />
 <br />
