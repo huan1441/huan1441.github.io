@@ -16,8 +16,8 @@ My name is Tao Huang. I am currently a postdoctoral research associate in Earth 
 
 Research Interests
 ======
-* Flood Modeling
-* Uncertainty Quantification in Hydrologic Modeling
+* Flood modeling (physics-based and data-driven)
+* Uncertainty quantification in hydrologic modeling
 * Data science in Earth systems
 
 <br />
