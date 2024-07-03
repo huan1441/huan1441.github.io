@@ -6,5 +6,5 @@ type: "Talk"
 venue: "AGU Fall Meeting"
 date: 2022-12-14
 location: "Chicago, Illinois"
-url: https://www.authorea.com/doi/full/10.1002/essoar.10512980.1
 ---
+[presentation](https://www.authorea.com/doi/full/10.1002/essoar.10512980.1)
