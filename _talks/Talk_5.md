@@ -5,6 +5,6 @@ type: "Talk"
 #permalink: /talks/Talk_5
 venue: "AGU Fall Meeting"
 date: 2023-12-11
-location: "San Francisco, California"
-paperurl: https://www.techrxiv.org/doi/full/10.22541/au.170052247.74488335
+location: "San Francisco, California" 
 ---
+[presentation](https://www.techrxiv.org/doi/full/10.22541/au.170052247.74488335)
