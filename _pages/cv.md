@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+You can also download my CV [HERE]'/files/paper1.pdf'
+
 {% include base_path %}
 
 Education
