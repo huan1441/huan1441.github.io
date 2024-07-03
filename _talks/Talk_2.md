@@ -6,5 +6,5 @@ type: "Talk"
 venue: "AGU Fall Meeting"
 date: 2021-12-15
 location: "New Orleans, Louisiana"
-url: https://www.authorea.com/doi/full/10.1002/essoar.10509329.1
 ---
+[presentation](https://www.authorea.com/doi/full/10.1002/essoar.10509329.1)
