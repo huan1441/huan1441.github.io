@@ -3,13 +3,11 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-You can also download my CV [HERE]('https://huan1441.github.io/files/paper1.pdf')
-
 {% include base_path %}
+
+You can also download my CV [HERE](https://huan1441.github.io/files/paper1.pdf)
 
 Education
 ======
