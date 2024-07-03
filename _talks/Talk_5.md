@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 #permalink: /talks/Talk_5
 venue: "AGU Fall Meeting"
-date: 2021-12-16
+date: 2023-12-11
 location: "San Francisco, California"
-url: https://www.techrxiv.org/doi/full/10.22541/au.170052247.74488335
+paperurl: https://www.techrxiv.org/doi/full/10.22541/au.170052247.74488335
 ---
