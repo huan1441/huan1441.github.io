@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching Philosophy"
 permalink: /teaching/
 author_profile: true
 ---
 
-Educational Philosophy
-======
 Becoming an outstanding educator is my lifelong aspiration. I see universities as vibrant hubs for creating and sharing knowledge, where the dynamic relationship between teaching and learning thrives through continuous exploration, sharing, collaboration, and innovation. In my view, a good teacher is a guide who empowers students to acquire knowledge, develop skills, and think independently, thereby fostering wisdom, curiosity, and focus. To me, teaching is akin to renewing lives—an enduring source of motivation that propels me to reach new heights and broaden my horizons.
 
 
