@@ -51,3 +51,5 @@ Awards
   * Lyles School of Civil Engineering fellowship presented to an outstanding graduate student who is working with a Faculty Mentor to teach an undergraduate course in civil engineering at Purdue University
 * Dorothy Faye Dunn Fellowship (Oct. 2022)
   * Lyles School of Civil Engineering award presented to an outstanding graduate student in the hydraulic and hydrologic engineering field at Purdue University
+* Outstanding Undergraduate Thesis (June 2012)
+  * Tsinghua University award presented to an outstanding undergraduate thesis
