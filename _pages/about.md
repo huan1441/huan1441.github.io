@@ -10,12 +10,12 @@ redirect_from:
 
 About ME
 ======
-My name is Tao Huang. I am currently a postdoctoral research associate in Earth Systems Data Science at the Pacific Northwest National Laboratory (PNNL), where my research is focused on quantifying the environmental impacts of conventional hydropower systems on fish species of special concern. This work is accomplished through the application of cutting-edge machine learning and deep learning algorithms, in conjunction with the analysis of datasets collected from advanced autonomous sensor devices. I hold a Ph.D. in Civil Engineering (Hydrology and Hydraulics) from Purdue University.
+My name is Tao Huang. I am currently a postdoctoral research associate in Earth Systems Data Science at the Pacific Northwest National Laboratory (PNNL), where my research is focused on quantifying the environmental impacts of conventional hydropower systems on fish species of special concern. This work is accomplished through the application of cutting-edge machine learning and deep learning algorithms, in conjunction with the analysis of datasets collected from advanced autonomous sensor devices. I hold a Ph.D. in Civil Engineering (Hydrology and Hydraulics) from Purdue University. My Ph.D. research topic is about [Quantifying Uncertainty in Flood Modeling Using Bayesian Approaches](https://hammer.purdue.edu/articles/thesis/Quantifying_Uncertainty_in_Flood_Modeling_Using_Bayesian_Approaches/22693543).
 
 Research Interests
 ======
 * Flood modeling (physics-based and data-driven)
-* Uncertainty quantification in hydrologic modeling
+* Uncertainty quantification in hydrologic modeling and [flood inundation mapping](https://engineering.purdue.edu/CCE/Media/Impact/2022-Fall/redefining-flood-zones)
 * Data science in Earth systems
 
 Education
