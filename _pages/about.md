@@ -16,7 +16,7 @@ Research Interests
 ======
 * Flood modeling (physics-based and data-driven)
 * Uncertainty quantification in hydrologic modeling and [flood inundation mapping](https://engineering.purdue.edu/CCE/Media/Impact/2022-Fall/redefining-flood-zones)
-* Environmental Impacts of Hydropower systems
+* Environmental impacts of Hydropower systems
 * Data science in Earth systems
 
 Education
