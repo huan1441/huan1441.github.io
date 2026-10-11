@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-You can also download my CV [HERE](https://huan1441.github.io/files/CV_Tao_Huang_2025.pdf)
+You can also download my CV [HERE](https://huan1441.github.io/files/CV_Tao_Huang_2026.pdf)
 
 Education
 ======
